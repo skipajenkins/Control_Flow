@@ -34,8 +34,8 @@ Make sure Rust and Cargo are installed. You can install them using **rustup**:
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
-Verify the installation:
 ```
+Verify the installation:
 ```bash
 rustc --version
 cargo --version
@@ -60,9 +60,6 @@ Build the project:
 ```bash
 cargo build
 Run the program:
-```
-
-```bash
 cargo run
 ```
 
